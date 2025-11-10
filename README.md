@@ -210,7 +210,10 @@ CLOUDINARY_API_SECRET=xxxx
 ## 📬 Contact
 
 **Created by — Surya Pratap Singh**  
-If you like this project, consider giving it a ⭐ on GitHub & LinkedIn!
+📩 **Contact Me:**  
+[LinkedIn](https://www.linkedin.com/in/surya-pratap-singh1/) • [Gmail](mailto:surya30082005@gmail.com)
+
+If you like this project, consider giving it a ⭐ on GitHub!
 
 <p align="right">(<a href="#top">⬆️ Back to Top</a>)</p>
 
