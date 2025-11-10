@@ -84,12 +84,12 @@ const onSubmitHandler = (e) => {
             {currState === "Sign Up" ? "Create Account" : "Login Now"}
             </button>
 
-            <div>
-            <input
+            <div className="flex items-center gap-2 text-sm text-gray-500">
+                <input
                 type="checkbox"
-                className="flex items-center gap-2 text-sm text-gray-500 "
-            />
-            <p>Agree to the terms of use & privacy policy</p>
+                className="h-4 w-4 accent-purple-500 cursor-pointer"
+                />
+                <p>Agree to the terms of use & privacy policy</p>
             </div>
 
             <div className="flex flex-col gap-2">
