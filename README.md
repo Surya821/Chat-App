@@ -87,7 +87,7 @@ Powered by **MERN + Socket.IO**, it ensures live messaging and a smooth UI using
 ✅ Upload & send images (Cloudinary)  
 ✅ Edit user profile, avatar & bio  
 ✅ Persistent login with JWT token  
-✅ Fully responsive UI – Desktop & Tablet  
+✅ Fully responsive UI – Desktop & Mobile  
 
 ---
 
@@ -109,7 +109,7 @@ Powered by **MERN + Socket.IO**, it ensures live messaging and a smooth UI using
 
 ### **Deployment:**
 - Vercel (Frontend)
-- Render / Railway (Backend)
+- Vercel (Backend)
 
 ---
 
@@ -117,12 +117,12 @@ Powered by **MERN + Socket.IO**, it ensures live messaging and a smooth UI using
 
 ```bash
 Chat-App/
-├── client/                     # Frontend (React + Vite)
+├── client/
+|   ├── context/                     # Frontend (React + Vite)
 │   ├── public/
 │   └── src/
 │       ├── assets/
 │       ├── components/
-│       ├── context/
 │       ├── pages/
 │       └── App.jsx
 └── server/                     # Backend (Node.js + Express)
@@ -210,7 +210,7 @@ CLOUDINARY_API_SECRET=xxxx
 ## 📬 Contact
 
 **Created by — Surya Pratap Singh**  
-If you like this project, consider giving it a ⭐ on GitHub!
+If you like this project, consider giving it a ⭐ on GitHub & LinkedIn!
 
 <p align="right">(<a href="#top">⬆️ Back to Top</a>)</p>
 
