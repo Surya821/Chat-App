@@ -115,6 +115,7 @@ Powered by **MERN + Socket.IO**, it ensures live messaging and a smooth UI using
 
 ## 📂 Project Structure
 
+```bash
 Chat-App/
 ├── client/                     # Frontend (React + Vite)
 │   ├── public/
@@ -131,6 +132,7 @@ Chat-App/
     ├── models/
     ├── routes/
     └── server.js
+```
 
 ---
 
