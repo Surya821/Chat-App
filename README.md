@@ -1,4 +1,4 @@
-<div id="top"></div>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f32d3f1f-049b-4f7d-8836-a50f35255a58" /><div id="top"></div>
 
 <div align="center">
 
@@ -39,15 +39,15 @@
 
 ---
 
-### 📱 Tablet View
+### 📱 Mobile View
 
 | Login | Signup | Home |
 |:--:|:--:|:--:|
-| ![Login](screenshots/login-tablet.png) | ![Signup](screenshots/signup-tablet.png) | ![Home](screenshots/home-tablet.png) |
+| ![Login](screenshots/login-mobile.png) | ![Signup](screenshots/signup-mobile.png) | ![Home](screenshots/home-mobile.png) |
 
 | Chat (1-to-1) | Profile |
 |:--:|:--:|
-| ![Chat](screenshots/chat-tablet.png) | ![Profile](screenshots/profile-tablet.png) |
+| ![Chat](screenshots/chat-mobile.png) | ![Profile](screenshots/profile-mobile.png) |
 
 ---
 
